@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Product Analyst and I'm currently learning Python 🐍 by attending a  [CoGrammar](https://skills.cogrammar.com/) 16-week Data Science Skills bootcamp by
+I'm a Senior Product Analyst and I'm currently learning Python 🐍 by attending a  [CoGrammar](https://skills.cogrammar.com/) 16-week Data Science Skills bootcamp!
 
 <details>
 <summary>Expand to see the languages I'm already familiar with</summary>
