@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Product Analyst and I'm currently working at [Veed.io](](https://veed.io/))
+I'm a Senior Product Analyst and I'm currently working at [Veed.io](https://veed.io/)
 <!--
 **editatam/editatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
