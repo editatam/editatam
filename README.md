@@ -1,22 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Product Analyst and I'm currently learning Python 🐍 by attending a  [CoGrammar](https://skills.cogrammar.com/) 16-week Data Science Skills bootcamp!
-
-<details>
-<summary>Expand to see the languages I'm already familiar with</summary>
-
-| Rank | Languages  |
-|-----:|------------|
-|     1| SQL        |
-|     2| HTML & CSS |
-|     3| JavaScript |
-
-</details>
-
-<picture>
-  <img src="https://assets-global.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science-p-1600.jpg" width=600>
-</picture>
-
+I'm a Senior Product Analyst and I'm currently working at [Veed.io](](https://veed.io/))
 <!--
 **editatam/editatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
