@@ -8,6 +8,9 @@ Right now, I am:
 🧪 **Testing Everything**: Obsessed with experimentation frameworks and turning data into shipping decisions
 
 🔬 **Side-questing**: Developing a personal health tracker
+<br>
+<br>
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/edita-tamasauskaite/)
 <!--
 **editatam/editatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
