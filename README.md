@@ -1,13 +1,13 @@
 ### Hi there, I'm Edita 👋
-Senior Product Analyst @ [Veed.io](https://veed.io/)
+Senior Product Analyst @ [Veed.io](https://veed.io/). <br>
+I sit at the intersection of data, product growth, and experimentation. <br>
+Right now, I am:
 
-I sit at the intersection of data, product growth, and experimentation. Right now, I am:
+📈 **Redefining Analytics**: Investigating how AI is raising the bar for modern product analytics and predictive insights
 
-📈 Redefining Analytics: Investigating how AI is raising the bar for modern product analytics and predictive insights
+🧪 **Testing Everything**: Obsessed with experimentation frameworks and turning data into shipping decisions
 
-🧪 Testing Everything: Obsessed with experimentation frameworks and turning data into shipping decisions
-
-🔬 Side-questing: Developing a personal health tracker
+🔬 **Side-questing**: Developing a personal health tracker
 <!--
 **editatam/editatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
